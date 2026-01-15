@@ -1,0 +1,5 @@
+{
+  "name": " VolLab Connect",
+  "description": "A management platform for volunteers to track lab statuses across states, featuring specific workflows for volunteers and administrators.",
+  "requestFramePermissions": []
+}
